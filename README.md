@@ -20,9 +20,8 @@ Aquí encontrarás código limpio, funcionalidades útiles y una interfaz más g
 
 ## 🚀 Tecnologías
 
-- 🔥 Lenguaje: `JavaScript` / `Python` / `Go` (elige tu veneno)
-- 🧩 Framework: `React` / `Node.js` / `Next.js`
+- 🔥 Lenguaje: `JavaScript` / `HTML` / `CSS` / `PYTHON` 
+- 🧩 Framework: `ESX` / `QBCore` / `Next.js`
 - 🎨 Estilo: `Tailwind CSS` / `Sass`
-- 🧪 Tests (porque somos serios): `Jest` / `Vitest`
 
 ---
